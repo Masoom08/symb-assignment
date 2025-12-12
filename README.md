@@ -61,14 +61,12 @@ project-folder/
 ### **Frontend**
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla)
 
 ### **External Libraries**
 - Google Fonts (Poppins)  
 - Font Awesome Icons  
 - Google Maps Embed  
 
----
 
 ---
 
