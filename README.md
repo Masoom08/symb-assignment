@@ -76,7 +76,22 @@ project-folder/
 
 1. Clone or download the project:
    ```bash
-   git clone https://github.com/yourusername/flatty-landing-page.git
+   git clone https://github.com/Masoom08/symb-assignment.git
+---
+
+## 🛠️ Technologies Used
+
+### **Frontend**
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla)
+
+### **External Libraries**
+- Google Fonts (Poppins)  
+- Font Awesome Icons  
+- Google Maps Embed  
+
+---
 
 2. Open the project folder.
 
