@@ -33,6 +33,7 @@ No frameworks — just HTML + CSS.
 Fast to load and easy to customize.
 
 ---
+## 📁 Folder Structure
 
 project-folder/
 │
@@ -53,6 +54,21 @@ project-folder/
 └── team3.jpeg
 
 
+---
+
+## 🛠️ Technologies Used
+
+### **Frontend**
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla)
+
+### **External Libraries**
+- Google Fonts (Poppins)  
+- Font Awesome Icons  
+- Google Maps Embed  
+
+---
 
 ---
 
@@ -65,5 +81,16 @@ project-folder/
 2. Open the project folder.
 
 3. Run the landing page by opening index.html in your browser.
-## 📁 Folder Structure
 
+
+
+
+✨ Author
+
+Masoom Singh
+Frontend Developer | Designer | React & Web Specialist
+
+📄 License
+
+This project is free to use for learning and personal development.
+Feel free to customize it for your own designs.
